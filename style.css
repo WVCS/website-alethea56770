@@ -22,8 +22,8 @@ img{
   border-color: #F6AE2D;
 }
 ul{
-  .unique-margin{
-  margin-top: -75px;}
+
+  margin-top: -75px;
   list-style-type: none;
   text-align: center;
   position: fixed;
