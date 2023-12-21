@@ -21,13 +21,14 @@ img{
   border-style: solid;
   border-color: #F6AE2D;
 }
-
 unique-margin{ 
   margin-top: -75px;
   list-style-type: none;
   text-align: center;
-  position: fixed;}
+  position: fixed;
+}
 ul{
+  margin-top: 0px
   list-style-type: none;
   text-align: center;
   position: fixed;
