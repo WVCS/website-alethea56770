@@ -21,9 +21,13 @@ img{
   border-style: solid;
   border-color: #F6AE2D;
 }
-ul{
 
+unique-margin{ 
   margin-top: -75px;
+  list-style-type: none;
+  text-align: center;
+  position: fixed;}
+ul{
   list-style-type: none;
   text-align: center;
   position: fixed;
